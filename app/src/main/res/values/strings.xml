@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fragments4App</string>
+    <string name="btnCountCaption">Считать котов</string>
+</resources>
